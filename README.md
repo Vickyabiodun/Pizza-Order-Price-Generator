@@ -85,7 +85,7 @@ print(f'your total pizza price is {bill}')
   <li>The additional cost for extra cheese on any size pizza is 1.</li>
 <h2>Authors</h2>
 <ul>
-  <li>**[Abiodun Victoria]** - *https://github.com/Vickyabiodun*</li>
+  <li>[Abiodun Victoria] - https://github.com/Vickyabiodun</li>
 </ul>
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
